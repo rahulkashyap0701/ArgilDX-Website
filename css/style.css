@@ -107,6 +107,13 @@
   color: #103f6d !important;
   margin-right: 1rem!important;
   }
+  h4{
+    margin-top: 0px;
+    text-align: center;
+  }
+  h4 + hr{
+    display: block;
+  }
   .divider-new {
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
